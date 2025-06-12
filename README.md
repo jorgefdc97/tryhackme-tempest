@@ -57,7 +57,7 @@
     <li><b>Suspicious file found:</b> <code>free_magicules.doc</code></li>
     <li><b>Compromised user:</b> <code>benimaru</code></li>
   </ul>
-  <p>
+  <p align="center">
     <img src="https://github.com/user-attachments/assets/ed3a4640-4304-408e-abab-a56ef83bf56b" alt="Timeline Explorer" width="900" />
   </p>
   <ul>
