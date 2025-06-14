@@ -29,8 +29,7 @@
 
 
   <h2>🔍 Task 3: Preparation - Tools and Artifacts</h2>
-  <p>In this task, we will prepare the artifacts and introduce the tools needed for the investigation. </p>
-  <h3>Compare by hash</h3> 
+  
   <p>Before conducting the investigation, one of the most important steps is to compare the artifacts by their hashes. It is a common practice to verify if the artifacts are expected as it is.<br><br>
     You can get the hashes of each artifact by running Powershell from the taskbar and executing the following command:</p>
   <pre><code>Get-FileHash * -Algorithm SHA256</code></pre>
